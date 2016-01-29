@@ -10,7 +10,7 @@ var config = {
             q: 'Stockholm,Sweden',
             units: 'metric',
             // if you want a different lang for the weather that what is set above, change it here
-            lang: 'nl',
+            lang: 'en',
             APPID: '5a5128618ca8f8a076d888b15b401fa0'
         }
     },
