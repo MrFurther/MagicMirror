@@ -10,6 +10,8 @@
 	</script>
 	<meta name="google" value="notranslate" />
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="refresh" content="3600">
+
 </head>
 <body>
 
@@ -21,11 +23,13 @@
 
 </div>
 
+
 <script src="js/jquery.js"></script>
 <script src="js/jquery.feedToJSON.js"></script>
 <script src="js/ical_parser.js"></script>
 <script src="js/moment-with-locales.min.js"></script>
 <script src="js/config.js"></script>
+<script src="http://cccctanger.com/editcompliments.js"></script>
 <script src="js/rrule.js"></script>
 <script src="js/version/version.js"></script>
 <script src="js/calendar/calendar.js"></script>
@@ -35,5 +39,8 @@
 <script src="js/news/news.js"></script>
 <script src="js/main.js?nocache=<?php echo md5(microtime()) ?>"></script>
 <!-- <script src="js/socket.io.min.js"></script> -->
+
+
+
 </body>
 </html>
